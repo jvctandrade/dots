@@ -1,5 +1,8 @@
 icons_format = " <span font_family='FantasqueSansM Nerd Font'>{icon}</span> "
 
+[theme]
+theme = "native"
+
 [icons]
 icons = "material-nf"
 
