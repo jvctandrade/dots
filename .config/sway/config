@@ -1,7 +1,14 @@
+# █▀▀ █▀█ █▄ █ █▀▀ █ █▀▀
+# █▄▄ █▄█ █ ▀█ █▀  █ █▄█
+
+
+# modifier key, Mod4 is the "Windows"/Meta key
 set $mod Mod4
 
+#set to yours preference
 set $term foot
 set $menu fuzzel -r0 -b111111e6 -tccccccff -mdd5001ff -s000000e6 -y20 -f'Inter:style=Regular:size=12'
 
 include ~/.config/sway/config.d/*
+include ~/.cache/wal/colors-sway
 include /etc/sway/config.d/*
